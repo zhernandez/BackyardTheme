@@ -58,4 +58,17 @@ header {
   .section2 h3 {
     margin-top: 1em; }
 
+footer {
+  margin-top: 3em; }
+  footer i {
+    margin-right: 1em;
+    color: #78CBFD;
+    padding: 0.5em;
+    border-radius: 100%;
+    border: solid 2px #78CBFD; }
+  footer .fb {
+    padding-left: 1em; }
+  footer span {
+    color: #78CBFD; }
+
 /*# sourceMappingURL=main.css.map */

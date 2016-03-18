@@ -5,6 +5,7 @@ $cuatro: 4em;
 $tres: 3em;
 $dos: 2em;
 $uno: 1em;
+$pcinc: 0.5em;
 $azu: #78CBFD;
 $cienx: 100%;
 nav {
@@ -84,4 +85,21 @@ header{
     h3{
     	margin-top: $uno;
     }
+}
+footer{
+	margin-top: $tres;
+	i{
+		margin-right: $uno;
+		color: $azu;
+		padding: $pcinc;
+		border-radius: $cienx;
+		border:solid 2px $azu;
+	}
+	.fb{
+		padding-left: $uno;
+	}
+	span{
+		color: $azu;
+	}
+
 }
