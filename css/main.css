@@ -1,0 +1,61 @@
+nav img {
+  width: 8em; }
+
+header {
+  background-image: url(../images/cuernito.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 650px;
+  margin-bottom: 8em; }
+  header .opa {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); }
+  header h1 {
+    margin-top: 5em;
+    color: #fff; }
+  header p {
+    margin-top: 2em;
+    color: #fff;
+    margin-bottom: 2em; }
+  header button {
+    border-radius: 40%; }
+  header .transp {
+    color: #78CBFD;
+    border: 2px solid #78CBFD;
+    background: none;
+    margin: 1em; }
+  header span {
+    margin-left: 2em; }
+
+.section1 {
+  margin-bottom: 4em; }
+  .section1 .row {
+    border-bottom: solid 2px #eee;
+    margin-bottom: 8em; }
+  .section1 img {
+    width: 100%; }
+  .section1 .transp {
+    color: #78CBFD;
+    border: 2px solid #78CBFD;
+    background: none;
+    margin: 1em; }
+  .section1 span {
+    color: #78CBFD; }
+  .section1 .linea {
+    border-bottom: solid 2px #f2f2f2;
+    margin-top: 4em; }
+
+.section2 {
+  background-color: #f2f2f2;
+  margin-bottom: 0; }
+  .section2 h2 {
+    margin-top: 3em; }
+  .section2 p {
+    margin-bottom: 5em; }
+  .section2 img {
+    width: 100%; }
+  .section2 h3 {
+    margin-top: 1em; }
+
+/*# sourceMappingURL=main.css.map */
